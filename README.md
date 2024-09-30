@@ -1,5 +1,5 @@
 ## Descrição
-Atividade 8 - Lista de exercícios sobre Orientação a Objetos em Java
+Atividade 8 - Lista de Exercícios sobre Orientação a Objetos em Java
 
 Atividade proposta pelo Curso de Formação em Desenvolvimento Web FullStack Júnior da +PraTi
 
